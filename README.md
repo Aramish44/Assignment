@@ -19,7 +19,7 @@ Algebric operation function includes\
 +square root\
 +cube root\
 +nth root\
-+factorial\ 
++factorial \
 +absolute value
 # Logarithmic Operations 
 Logarithmic operations function includes\
