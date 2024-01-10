@@ -4,7 +4,7 @@ Basic operation function includes \
 +Addition \
 +Subtraction \
 +Multiplication\
-+Division\
++Division
 # Trigonometric Operations 
 Trignometric operations function includes\
 +sine \
@@ -12,7 +12,7 @@ Trignometric operations function includes\
 +tangent\
 +arc sine\
 +arc cosine\
-+arc tangent\
++arc tangent
 # Algebric Operations 
 Algebric operation function includes\
 +exponential\
@@ -20,12 +20,27 @@ Algebric operation function includes\
 +cube root\
 +nth root\
 +factorial\ 
-+absolute value\
++absolute value
 # Logarithmic Operations 
 Logarithmic operations function includes\
 +Logarithm (base 10)\
 +Natural logarithm (base e)\
 +Custom base logarithm
+# Statistical Operations
+Statistical operations function includes\
++Mean\
++Median\
++Mode\
++Standard deviation\
++Variance
+# Additional Operations
+Additional operations function includes\
++Modulus (remainder)\
++Percentage calculation\
++Greatest Common Divisor (GCD)\
++Least Common Multiple (LCM)\
++Floor (round down)\
++Ceiling (round up)
 
 
 
