@@ -23,6 +23,9 @@ Algebric operation function includes\
 +absolute value\
 # Logarithmic Operations 
 Logarithmic operations function includes\
-+exponential\
++Logarithm (base 10)\
++Natural logarithm (base e)\
++Custom base logarithm
+
 
 
