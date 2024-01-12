@@ -1,4 +1,4 @@
-# Assignment
+# SCIENTIFIC CALCULATOR
 # Basic Operations
 Basic operation function includes \
 +Addition \
